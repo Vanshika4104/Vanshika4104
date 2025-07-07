@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Vanshika Yadav
 ** A passionate Data Analytics Enthusiast**
 
-Email Me 👉 ✉️ **raoovanshika2004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **raovanshika2004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Low-Code Webscraper
 - 🌱 **I’m currently learning:** Data Structure and Algorithms🥴
