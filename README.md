@@ -29,7 +29,7 @@ Email Me 👉 ✉️ **raoovanshika2004@gmail.com** For Collaboration/Project or
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika4104&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
