@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Vanshika Yadav
-** A passionate Data Analytics Enthusiast**
+**A passionate Data Analytics Enthusiast**
 
 Email Me 👉 ✉️ **raovanshika2004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
